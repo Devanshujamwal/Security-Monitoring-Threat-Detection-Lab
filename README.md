@@ -6,7 +6,7 @@
 
 A hands-on cybersecurity case study focused on **endpoint visibility, SIEM fundamentals, network context, and disciplined alert investigation**.
 
-**Portfolio case study:** https://devanshujamwal.github.io/Devanshujamwal/projects/security-monitoring/
+**Portfolio case study:** https://devanshujamwal.github.io/projects/security-monitoring/
 
 ## At a glance
 
@@ -82,4 +82,4 @@ A future lab refresh could include sanitized sample events, agent-health checks,
 
 ---
 **Devanshu Jamwal** · IT Support · Systems · Networking · Cloud  
-[Portfolio](https://devanshujamwal.github.io/Devanshujamwal/) · [GitHub Profile](https://github.com/Devanshujamwal)
+[Portfolio](https://devanshujamwal.github.io/) · [GitHub Profile](https://github.com/Devanshujamwal)
