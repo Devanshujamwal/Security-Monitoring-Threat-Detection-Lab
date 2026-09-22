@@ -80,6 +80,11 @@ This repository describes cybersecurity lab work and investigation methodology. 
 
 An alert is a starting point, not a conclusion. Reliable investigation depends on telemetry quality, context, network evidence, and a repeatable process for distinguishing facts from assumptions.
 
+## Documentation
+
+- [Monitoring architecture notes](./docs/architecture.md)
+- [Security event triage playbook](./docs/triage-playbook.md)
+
 ## Related skills
 
 Security monitoring · Windows/Linux · Networking · Wireshark · Firewall concepts · Troubleshooting · Documentation
